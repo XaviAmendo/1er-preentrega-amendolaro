@@ -1,0 +1,23 @@
+.containerNav{
+    background-color: grey;
+    width: 100%;
+    height: 90px;
+    border-bottom: solid 3px orange;
+    border-radius: 0px 0px 10px 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.containerNav button{
+    border-radius: 15px;
+    border-color: orange;
+    background-color: azure;
+    color: orange;
+}
+
+.cart1{
+    display: flex;
+}
