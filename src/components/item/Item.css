@@ -1,0 +1,43 @@
+.cardItem{
+    border: 1px solid #000000;
+    border-radius: 10px;
+    height: 400px;
+    width: 300px;
+    margin: 10px;
+    background-color: rosybrown;
+}
+
+.header h2{
+    font-size: 25px;
+    margin: 5px;
+    text-align: center;
+}
+
+.itemImg{
+    width: 350px;
+    height: 250px;
+    border: 1px solid black;
+}
+
+.info{
+    font-size: 15px;
+    margin: 0px 0px 1px 10px;
+}
+
+.itemButton{
+    border-radius: 10px;
+}
+
+.itemFooter{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.controls{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    margin: 25px 0px 0px 0px;
+}

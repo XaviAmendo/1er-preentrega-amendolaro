@@ -11,11 +11,16 @@
     justify-content: space-evenly;
 }
 
-.containerNav button{
+.containerNav button, .containerNav a{
     border-radius: 15px;
     border-color: orange;
     background-color: azure;
     color: orange;
+    text-decoration: none;
+    width: 100px;
+    height: 30px;
+    border: 2px solid;
+    text-align: center;
 }
 
 .cart1{
